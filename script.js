@@ -45,9 +45,9 @@ let list = [
     "Virus insert succesfully<br>",
     "Hacking starting ....<br>",
     "Hacking in progress...<br>",
-    "Hacking found username of Harry Bhai  in Raplit...<br>",
+    "Hacking found username of nadeem  in google...<br>",
     "Hacking done successfully....<br>",
-    "the user-name is @codewithharry in Raplit<br>"
+    "the user-name is @nadeem in google<br>"
 ]
 
 let duration = () => {
